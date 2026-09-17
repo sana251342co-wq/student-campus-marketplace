@@ -1,2 +1,1 @@
-# student-campus-marketplace
-Student Campus Marketplace website
+index.html
